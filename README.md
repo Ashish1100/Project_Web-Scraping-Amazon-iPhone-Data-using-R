@@ -1,21 +1,53 @@
-# Web-Scraping-using-R
-### The project: Scraping Amazon's iPhone data using R-programming.
+# Web Scraping using R: Amazon iPhone Data
 
-The automatic extraction of data from websites is known as web scraping. It entails programming code to access and extract data from online sites, often in a structured format like HTML or JSON. Numerous uses for this data are possible, including data analysis, research, and application development.
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-rvest-2C3E50?style=flat-square\&logo=web)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-R-276DC3?style=flat-square\&logo=r\&logoColor=white)
+![Status](https://img.shields.io/badge/Project_Status-Completed-success?style=flat-square)
 
-Here, Amazon iphone data is scrapped to analyze.
+## Project Overview
 
-The steps include:
-1. Installing and loading the required packages in R ("rvest" package).
-2. Sending an HTTP request.
-3. Extracting HTML content.
-4. Parsing the HTML (read_html()).
-5. Identifying the HTML elements.
-6. Processing and cleaning the data.
-7. Analyzing the data.
+**Web Scraping using R** is a data extraction and analysis project focused on collecting **Apple iPhone product data from Amazon** using the R programming language.
 
-##### --> iphone's "title", "ratings", and "cost" is analyzed.
+Web scraping is the automated process of extracting information from websites and converting it into a structured format suitable for analysis. In this project, the `rvest` package in R is used to send HTTP requests, parse HTML content, identify relevant webpage elements, and extract useful product information.
 
+The scraped Amazon iPhone data is processed to understand key product attributes such as **product title, customer ratings, and cost**.
+
+## Project Workflow
+
+The project follows these main steps:
+
+1. Install and load the required R packages.
+2. Send an HTTP request to the target Amazon webpage.
+3. Extract the webpage's HTML content.
+4. Parse the HTML using `read_html()`.
+5. Identify the relevant HTML elements and CSS selectors.
+6. Extract and clean the required product information.
+7. Organize the scraped data into a structured dataset.
+8. Analyze the extracted iPhone data.
+
+## Data Analyzed
+
+The project focuses on three primary attributes:
+
+* **Title** — Name and description of the iPhone product.
+* **Ratings** — Customer rating associated with the product.
+* **Cost** — Listed price of the iPhone.
+
+## Tools & Technologies
+
+* **R Programming**
+* **rvest** — Web scraping and HTML parsing
+* **HTML / CSS Selectors** — Identifying webpage elements
+* **Data Cleaning & Analysis** — Processing scraped product data
+
+## Project Objective
+
+The objective of this project is to demonstrate how **R can be used for web scraping and exploratory data analysis**. By extracting real-world product information from Amazon, the project provides practical experience with HTTP requests, HTML parsing, data extraction, data cleaning, and structured analysis.
+
+> **Note:** Amazon's website structure, selectors, availability, and access restrictions can change over time. Scraping should comply with the website's terms of service and applicable policies.
+
+---
 
 #### IDLE Screenshots:
 

@@ -5,7 +5,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-rvest-2C3E50?style=flat-square\&logo=web)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-R-276DC3?style=flat-square\&logo=r\&logoColor=white)
-![Status](https://img.shields.io/badge/Project_Status-Completed-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 </div>
 

@@ -47,7 +47,7 @@ The project focuses on three primary attributes:
 
 ## Project Objective
 
-The objective of this project is to demonstrate how **R can be used for web scraping and exploratory data analysis**. By extracting real-world product information from Amazon, the project provides practical experience with HTTP requests, HTML parsing, data extraction, data cleaning, and structured analysis.
+The objective of this project is to demonstrate how **R can be used for web scraping**. By extracting real-world product information from Amazon, the project provides practical experience with HTTP requests, HTML parsing, data extraction, data cleaning, and structured analysis.
 
 > **Note:** Amazon's website structure, selectors, availability, and access restrictions can change over time. Scraping should comply with the website's terms of service and applicable policies.
 
